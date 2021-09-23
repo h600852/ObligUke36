@@ -1,7 +1,7 @@
 package no.hvl.dat100;
 
 import static javax.swing.JOptionPane.*;
-
+// test 
 public class OppgaveB5a {
 
 	public static void main(String[] args) {
